@@ -1,7 +1,11 @@
 # Hanna Stseliukova
+
 annstelyukova@gmail.com
+
 Punctual,reliable, easy-trained
+
 HTML&CSS Basics
+
 ```
 <!DOCTYPE html>
 <html>
@@ -10,5 +14,7 @@ HTML&CSS Basics
 </body>
 </html>
 ```
+
 -
+
 B1
